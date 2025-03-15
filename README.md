@@ -25,7 +25,7 @@ o	View department-wise employee listings
 •	Development Environment: VS Code (Recommended)
 🛠 How to Run
 1.	Clone the repository:
-git clone https://github.com/yourusername/Employee-Management-System.git
+git clone https://github.com/mdabumushaony7/Employee-Management-System.git
 2.	Navigate to the project directory:
 cd Employee-Management-System
 3.	Compile the program:
@@ -37,8 +37,8 @@ gcc employee_management.c -o employee_management
 •	Add a GUI version using C++ or JavaFX.
 •	Enhance security with user authentication.
 📜 License
-This project is open-source and free to use under the MIT License. Contributions are welcome!
+This project is open-source and free to use under the MIT License. Contributions are<img width="1512" alt="Screenshot 2025-03-16 at 12 38 22 AM" src="https://github.com/user-attachments/assets/bcf86bae-86a2-4ed3-bdf5-e879daf3fc15" />
+ welcome!
  
-Let me know if you need any modifications! 🚀🔥
 
-![image](https://github.com/user-attachments/assets/f2e69d4a-7c8b-4c0c-a926-47c8ac6de3c5)
+
